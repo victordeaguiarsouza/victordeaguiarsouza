@@ -1,4 +1,12 @@
-### Hi there 👋
+Hey guys! I'm Victor.🖖
+A fullstack software engineer at BTG Pactual.
+
+🇧🇷 From Brazil
+
+
+<h1>Connect with me:</h1>
+
+[<img alt="alt_text" width="100px" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-1.png" />](https://www.linkedin.com/in/victor-aguiar-souza/)
 
 <!--
 **victordeaguiarsouza/victordeaguiarsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
