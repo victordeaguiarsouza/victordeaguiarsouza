@@ -1,5 +1,5 @@
 Hey guys! I'm Victor.🖖
-A fullstack software engineer at BTG Pactual.
+A fullstack software engineer at DOCK.
 
 🇧🇷 From Brazil
 
